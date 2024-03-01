@@ -1,5 +1,5 @@
 # Laporan Proyek Machine Learning - Hangga Bayu Krisna
-**Topik dari proyek ini adalah Drug Recommendation using Content Based Filtering**
+**Topik dari proyek ini adalah Drug Recommendation using Content Based Filtering** untuk memenuhi submission dicoding
 
 ## DOMAIN PROYEK
 ### Latar Belakang
